@@ -1,0 +1,10 @@
+Desafio do Phishing Ataque com site clonado de Facebook:
+Raiz de Acesso: "sudo su"
+Inicializando o setoolkit: "setoolkit"
+Tipo de de ataque: "Social-Engineering Attacks"
+Vetor de ataque: "Web Site Attack Vectors"
+Método de ataque: "Credential Harvester Attack Method "
+Método de ataque: "Site Cloner"
+Obtendo o da máquina: a: a endereço "ifconfig" que ficou 192.168.10.166
+URL para clone: http://www.facebook.com
+
